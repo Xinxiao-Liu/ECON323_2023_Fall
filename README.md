@@ -20,7 +20,7 @@ If possible, please bring a laptop to class to interactively discuss the materia
 - Philip Solimine [philip.solimine@ubc.ca](mailto:philip.solimine@ubc.ca)
 - Office Hours: Wednesdays 10:30am - 11:30am or by appointment, Iona #106
 - TA: Daniel Jaramillo [daniel.jaramillo@alumni.ubc.ca](mailto:daniel.jaramillo@alumni.ubc.ca)
-- Office Hours: TBD
+- Office Hours: Thursdays 1pm-2pm at Iona 434
 
 ## Syllabus
 See [Syllabus](syllabus.md) for more details
